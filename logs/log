@@ -1,0 +1,682 @@
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 941-877-084
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ERROR demo.py:9 error  msg
+WARNING demo.py:10 warn  msg
+INFO demo.py:11 info msg
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 13:46:54] "GET /api/v1.0/index HTTP/1.1" 200 -
+ERROR __init__.py:97 Error: Directory migrations already exists and is not empty
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 941-877-084
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 14:53:06] "GET /favicon.ico HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 14:53:39] "GET /static/html/index.html HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 14:53:39] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 14:53:39] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 14:53:39] "GET /static/css/reset.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 14:53:39] "GET /static/plugins/swiper/css/swiper.min.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 14:53:39] "GET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 14:53:39] "GET /static/css/ihome/main.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 14:53:39] "GET /static/css/ihome/index.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 14:53:39] "GET /static/images/logo@128x59.png HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 14:53:39] "GET /static/js/jquery.min.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 14:53:39] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 14:53:39] "GET /static/plugins/swiper/js/swiper.jquery.min.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 14:53:39] "GET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 14:53:39] "GET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 14:53:40] "GET /static/js/template.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 14:53:40] "GET /static/js/ihome/index.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 14:53:40] "GET /static/plugins/font-awesome/fonts/fontawesome-webfont.eot HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 14:53:40] "GET /api/v1.0/session HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 14:53:40] "GET /api/v1.0/houses/index HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 14:53:40] "GET /api/v1.0/areas HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 14:53:40] "GET /favicon.ico HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 14:54:19] "GET /search.html?aid=&aname=&sd=&ed= HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 14:54:20] "GET /favicon.ico HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 14:54:20] "GET /favicon.ico HTTP/1.1" 404 -
+INFO _internal.py:122  * Detected change in 'F:\\pythonStudy\\flask\\ihome\\__init__.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 941-877-084
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ERROR demo.py:9 error  msg
+WARNING demo.py:10 warn  msg
+INFO demo.py:11 info msg
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 15:14:59] "GET /api/v1.0/index HTTP/1.1" 200 -
+ERROR demo.py:9 error  msg
+WARNING demo.py:10 warn  msg
+INFO demo.py:11 info msg
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 15:15:09] "GET /api/v1.0/index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 15:15:10] "GET /favicon.ico HTTP/1.1" 404 -
+INFO _internal.py:122  * Detected change in 'F:\\pythonStudy\\flask\\ihome\\__init__.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 941-877-084
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'F:\\pythonStudy\\flask\\ihome\\__init__.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 941-877-084
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'F:\\pythonStudy\\flask\\ihome\\__init__.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 941-877-084
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 15:20:25] "GET /favicon.ico HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 15:20:36] "GET / HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 15:20:37] "GET /api/v1.0/session HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 15:20:37] "GET /api/v1.0/houses/index HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 15:20:37] "GET /api/v1.0/areas HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 15:20:59] "GET /register.html HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 15:20:59] "GET /static/css/ihome/register.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 15:20:59] "GET /static/js/ihome/register.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 15:21:00] "GET /api/v1.0/image_codes/a89c63d1-587a-45e5-af85-cd89fabb45f2 HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 15:21:00] "GET /favicon.ico HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 16:03:32] "GET /register.html HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 16:03:32] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 16:03:32] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 16:03:33] "GET /static/css/reset.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 16:03:33] "GET /static/css/ihome/main.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 16:03:33] "GET /static/css/ihome/register.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 16:03:33] "GET /static/images/logo@128x59.png HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 16:03:33] "GET /static/js/jquery.min.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 16:03:33] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 16:03:33] "GET /static/js/ihome/register.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 16:03:33] "GET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 16:03:34] "GET /api/v1.0/image_codes/de866d9c-665d-4c74-847a-049b2542e650 HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 16:03:34] "GET /favicon.ico HTTP/1.1" 200 -
+INFO _internal.py:122  * Detected change in 'F:\\pythonStudy\\flask\\ihome\\web_html.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 941-877-084
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'F:\\pythonStudy\\flask\\ihome\\web_html.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 941-877-084
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'F:\\pythonStudy\\flask\\ihome\\web_html.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 941-877-084
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'F:\\pythonStudy\\flask\\ihome\\web_html.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 941-877-084
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'F:\\pythonStudy\\flask\\ihome\\web_html.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 941-877-084
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'F:\\pythonStudy\\flask\\ihome\\web_html.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 941-877-084
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 16:09:35] "GET /register.html HTTP/1.1" 304 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 16:09:35] "GET /api/v1.0/image_codes/fcd9ec04-5f3e-4508-b80e-f4ad9a477905 HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 16:09:35] "GET /favicon.ico HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 16:09:49] "GET /register.html HTTP/1.1" 304 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 16:09:50] "GET /favicon.ico HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 16:15:03] "GET /api/v1.0/image_codes/5293f442-7c79-4c56-a6b1-d4a0c2e4e062 HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 16:15:03] "GET /api/v1.0/image_codes/669502bf-c26c-4a91-8d4f-978bfc0325b8 HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 16:15:04] "GET /api/v1.0/image_codes/ca79f8f8-1f80-459b-b3c5-a20950724da9 HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 16:15:04] "GET /api/v1.0/image_codes/28b6a759-a09b-4348-95f5-cfd471b470d9 HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 16:15:05] "GET /api/v1.0/image_codes/f0b955ab-ba5a-4503-a6f3-8f0b4e3b8f1a HTTP/1.1" 404 -
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 941-877-084
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 17:59:16] "GET /api/v1.0/image_code/123 HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 17:59:30] "GET /api/v1.0/image_codes/123 HTTP/1.1" 404 -
+INFO _internal.py:122  * Detected change in 'F:\\pythonStudy\\flask\\ihome\\api_v1_0\\verify_code.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 941-877-084
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 18:00:15] "GET /api/v1.0/image_codes/123 HTTP/1.1" 404 -
+INFO _internal.py:122  * Detected change in 'F:\\pythonStudy\\flask\\ihome\\api_v1_0\\verify_code.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 941-877-084
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 18:01:31] "GET /api/v1.0/image_codes/123 HTTP/1.1" 500 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 18:01:32] "GET /api/v1.0/image_codes/123?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 18:01:32] "GET /api/v1.0/image_codes/123?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 18:01:32] "GET /api/v1.0/image_codes/123?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 18:01:32] "GET /api/v1.0/image_codes/123?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 18:01:32] "GET /api/v1.0/image_codes/123?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 18:01:32] "GET /api/v1.0/image_codes/123?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:122  * Detected change in 'F:\\pythonStudy\\flask\\ihome\\utils\\captcha\\captcha.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 941-877-084
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 18:07:25] "GET /api/v1.0/image_codes/123 HTTP/1.1" 500 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 18:07:25] "GET /api/v1.0/image_codes/123?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 18:07:25] "GET /api/v1.0/image_codes/123?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 18:07:25] "GET /api/v1.0/image_codes/123?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 18:07:25] "GET /api/v1.0/image_codes/123?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 18:07:25] "GET /api/v1.0/image_codes/123?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:122  * Detected change in 'F:\\pythonStudy\\flask\\ihome\\utils\\captcha\\captcha.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 941-877-084
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'F:\\pythonStudy\\flask\\ihome\\utils\\captcha\\captcha.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 941-877-084
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'F:\\pythonStudy\\flask\\ihome\\utils\\captcha\\captcha.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 941-877-084
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 18:08:54] "GET /api/v1.0/image_codes/123 HTTP/1.1" 500 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 18:08:54] "GET /api/v1.0/image_codes/123?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 18:08:54] "GET /api/v1.0/image_codes/123?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 18:08:54] "GET /api/v1.0/image_codes/123?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 18:08:54] "GET /api/v1.0/image_codes/123?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 18:08:54] "GET /api/v1.0/image_codes/123?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:122  * Detected change in 'F:\\pythonStudy\\flask\\ihome\\utils\\captcha\\captcha.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 941-877-084
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'F:\\pythonStudy\\flask\\ihome\\utils\\captcha\\captcha.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 941-877-084
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 18:12:43] "GET /api/v1.0/image_codes/123 HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 18:18:57] "GET /api/v1.0/image_codes/ce0f7fab-7602-43f0-91ff-5df3b6a08e88 HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 18:18:58] "GET /api/v1.0/image_codes/41b273c6-c4f3-4e15-b6bb-14ce3eef527d HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 18:18:59] "GET /api/v1.0/image_codes/88297d91-47b4-4cc0-8ec8-6367dead2a5f HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 18:19:00] "GET /api/v1.0/image_codes/6445caba-5a54-41bf-bf05-29a8baa3dbcf HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 18:19:01] "GET /api/v1.0/image_codes/a987998e-af85-4231-af27-5af5ed7aac38 HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 18:19:02] "GET /api/v1.0/image_codes/1e3b4d34-c00a-414d-a0ea-a64cc40b1586 HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 18:19:02] "GET /api/v1.0/image_codes/d88f919a-c0eb-40f5-ae5f-8186af772eb2 HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 18:19:03] "GET /api/v1.0/image_codes/e7a2d985-cb13-4163-9d03-f91e2c253f9b HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 18:19:04] "GET /api/v1.0/image_codes/373953ca-ef4d-439b-ae2d-01d688a129ae HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 18:25:55] "GET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 18:26:21] "GET /api/v1.0/image_codes/cfcc51f0-9397-4e31-a429-8e30becbf760 HTTP/1.1" 200 -
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 941-877-084
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 22:45:26] "GET /api/v1.0/sms_codes/18611111111 HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 22:47:19] "GET /api/v1.0/sms_codes/18611111111?image_codeid&image_code HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 22:47:40] "GET /api/v1.0/sms_codes/18611111111?image_code_id&image_code HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 22:49:53] "GET /api/v1.0/image_code/123 HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 22:50:00] "GET /api/v1.0/image_codes/123 HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 22:52:16] "GET /api/v1.0/sms_codes/18611111111?image_code_id&image_code HTTP/1.1" 404 -
+INFO _internal.py:122  * Detected change in 'F:\\pythonStudy\\flask\\ihome\\api_v1_0\\verify_code.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 941-877-084
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 22:53:47] "GET /api/v1.0/sms_codes/18611111111?image_code_id&image_code HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 22:55:36] "GET /register.html HTTP/1.1" 304 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 22:55:36] "GET /api/v1.0/image_codes/121c3aae-6c1f-45f0-9caa-384544ceb8d6 HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 22:55:36] "GET /favicon.ico HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 22:55:39] "GET /api/v1.0/image_codes/1c165a52-fd66-4ae9-b336-fd3d122a4593 HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 22:57:39] "GET /api/v1.0/sms_codes/18611111111?image_code_id=1c165a52-fd66-4ae9-b336-fd3d122a4593&image_code=tcts HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 22:57:54] "GET /api/v1.0/sms_codes/18611111111?image_code_id=1c165a52-fd66-4ae9-b336-fd3d122a4593&image_code=tctx HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 22:58:49] "GET /api/v1.0/sms_codes/18611111111?image_code_id=code_1c165a52-fd66-4ae9-b336-fd3d122a4593&image_code=tctx HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 22:59:03] "GET /api/v1.0/sms_codes/18611111111?image_code_id=code_1c165a52-fd66-4ae9-b336-fd3d122a4593&image_code=TCTX HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 22:59:19] "GET /api/v1.0/image_codes/ccf008fc-50b5-40cb-87b8-8d9a66ae5cfd HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 22:59:21] "GET /api/v1.0/image_codes/bb4854bb-5945-45a2-8b76-653fa1adeda3 HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 22:59:23] "GET /api/v1.0/image_codes/f0ef7bec-cdd3-48a0-a9c7-ac0bf9751e3b HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 23:00:56] "GET /api/v1.0/sms_codes/18611111111?image_code_id=ccf008fc-50b5-40cb-87b8-8d9a66ae5cfd&image_code=vbfa HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 23:01:17] "GET /api/v1.0/sms_codes/18611111111?image_code_id=ccf008fc-50b5-40cb-87b8-8d9a66ae5cfd&image_code=VBFA HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 23:02:42] "GET /register.html HTTP/1.1" 304 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 23:02:42] "GET /api/v1.0/image_codes/6a798b08-65a8-4f71-b770-9f9dfdfe3b65 HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 23:02:42] "GET /favicon.ico HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 23:03:29] "GET /api/v1.0/sms_codes/18611111111?image_code_id=6a798b08-65a8-4f71-b770-9f9dfdfe3b65&image_code=jbm9 HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 23:05:55] "GET /register.html HTTP/1.1" 304 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 23:05:55] "GET /api/v1.0/image_codes/fab82845-9ea8-46b1-81b5-88924e852e1c HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 23:05:55] "GET /favicon.ico HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 23:06:58] "GET /api/v1.0/sms_codes/18611111111?image_code_id=fab82845-9ea8-46b1-81b5-88924e852e1c&image_code=aqpn HTTP/1.1" 200 -
+INFO _internal.py:122  * Detected change in 'F:\\pythonStudy\\flask\\ihome\\api_v1_0\\verify_code.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 941-877-084
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 23:08:15] "GET /register.html HTTP/1.1" 304 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 23:08:15] "GET /api/v1.0/image_codes/d38f57a5-6b8c-440c-8f73-76def1c7e46a HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 23:08:15] "GET /favicon.ico HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 23:09:08] "GET /api/v1.0/sms_codes/18611111111?image_code_id=d38f57a5-6b8c-440c-8f73-76def1c7e46a&image_code=4s5x HTTP/1.1" 200 -
+INFO _internal.py:122  * Detected change in 'F:\\pythonStudy\\flask\\ihome\\api_v1_0\\verify_code.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 941-877-084
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 23:10:19] "GET /api/v1.0/sms_codes/18611111111?image_code_id=d38f57a5-6b8c-440c-8f73-76def1c7e46a&image_code=4s5x HTTP/1.1" 200 -
+INFO _internal.py:122  * Detected change in 'F:\\pythonStudy\\flask\\ihome\\api_v1_0\\verify_code.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 941-877-084
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 23:14:09] "GET /register.html HTTP/1.1" 304 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 23:14:09] "GET /api/v1.0/image_codes/c883ac89-f25c-40dd-984a-8045dbac3041 HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 23:14:09] "GET /favicon.ico HTTP/1.1" 200 -
+ERROR verify_code.py:95 '<=' not supported between instances of 'str' and 'int'
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 23:14:46] "GET /api/v1.0/sms_codes/18611111111?image_code_id=c883ac89-f25c-40dd-984a-8045dbac3041&image_code=8kwg HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 23:19:38] "GET /register.html HTTP/1.1" 304 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 23:19:38] "GET /api/v1.0/image_codes/382723fa-deb9-4cf7-91da-b9cb061023f5 HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 23:19:39] "GET /favicon.ico HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 23:20:22] "GET /api/v1.0/sms_codes/18612398924?image_code_id=382723fa-deb9-4cf7-91da-b9cb061023f5&image_code=acnk HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 23:20:35] "GET /api/v1.0/sms_codes/18612398924?image_code_id=382723fa-deb9-4cf7-91da-b9cb061023f5&image_code=acnc HTTP/1.1" 200 -
+ERROR verify_code.py:95 '<=' not supported between instances of 'str' and 'int'
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 23:20:45] "GET /api/v1.0/sms_codes/18612398924?image_code_id=382723fa-deb9-4cf7-91da-b9cb061023f5&image_code=aznc HTTP/1.1" 200 -
+INFO _internal.py:122  * Detected change in 'F:\\pythonStudy\\flask\\ihome\\api_v1_0\\verify_code.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 941-877-084
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'F:\\pythonStudy\\flask\\ihome\\libs\\yuntongxun\\CCPRestSDK.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 941-877-084
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'F:\\pythonStudy\\flask\\ihome\\libs\\yuntongxun\\sms.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 941-877-084
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 23:32:20] "GET /register.html HTTP/1.1" 304 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 23:32:20] "GET /api/v1.0/image_codes/f1032ffc-3205-4f31-8bb8-43037234dcf5 HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 23:32:20] "GET /favicon.ico HTTP/1.1" 200 -
+ERROR verify_code.py:95 '<=' not supported between instances of 'str' and 'int'
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 23:33:08] "GET /api/v1.0/sms_codes/18612398924?image_code_id=f1032ffc-3205-4f31-8bb8-43037234dcf5&image_code=moyf HTTP/1.1" 200 -
+INFO _internal.py:122  * Detected change in 'F:\\pythonStudy\\flask\\ihome\\libs\\yuntongxun\\sms.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 941-877-084
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ERROR verify_code.py:95 '<=' not supported between instances of 'str' and 'int'
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 23:35:01] "GET /api/v1.0/sms_codes/18612398924?image_code_id=f1032ffc-3205-4f31-8bb8-43037234dcf5&image_code=moyf HTTP/1.1" 200 -
+INFO _internal.py:122  * Detected change in 'F:\\pythonStudy\\flask\\ihome\\api_v1_0\\verify_code.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 941-877-084
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 23:39:40] "GET /register.html HTTP/1.1" 304 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 23:39:40] "GET /api/v1.0/image_codes/e16a523a-6739-49e3-8d59-7e62950735f7 HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 23:39:40] "GET /favicon.ico HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 23:40:14] "GET /api/v1.0/sms_codes/18612398924?image_code_id=e16a523a-6739-49e3-8d59-7e62950735f7&image_code=6HZ7 HTTP/1.1" 200 -
+ERROR verify_code.py:96 '<=' not supported between instances of 'str' and 'int'
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 23:40:24] "GET /api/v1.0/sms_codes/18612398924?image_code_id=e16a523a-6739-49e3-8d59-7e62950735f7&image_code=6HZG HTTP/1.1" 200 -
+INFO _internal.py:122  * Detected change in 'F:\\pythonStudy\\flask\\ihome\\api_v1_0\\verify_code.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 941-877-084
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ERROR verify_code.py:96 '<=' not supported between instances of 'str' and 'int'
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 23:41:18] "GET /api/v1.0/sms_codes/18612398924?image_code_id=e16a523a-6739-49e3-8d59-7e62950735f7&image_code=6HZG HTTP/1.1" 500 -
+ERROR verify_code.py:96 '<=' not supported between instances of 'str' and 'int'
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 23:41:22] "GET /api/v1.0/sms_codes/18612398924?image_code_id=e16a523a-6739-49e3-8d59-7e62950735f7&image_code=6HZG HTTP/1.1" 500 -
+ERROR verify_code.py:96 '<=' not supported between instances of 'str' and 'int'
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 23:41:25] "GET /api/v1.0/sms_codes/18612398924?image_code_id=e16a523a-6739-49e3-8d59-7e62950735f7&image_code=6HZG HTTP/1.1" 500 -
+ERROR verify_code.py:96 '<=' not supported between instances of 'str' and 'int'
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 23:41:34] "GET /api/v1.0/sms_codes/18612398924?image_code_id=e16a523a-6739-49e3-8d59-7e62950735f7&image_code=6HZG HTTP/1.1" 500 -
+ERROR verify_code.py:96 '<=' not supported between instances of 'str' and 'int'
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 23:41:36] "GET /api/v1.0/sms_codes/18612398924?image_code_id=e16a523a-6739-49e3-8d59-7e62950735f7&image_code=6HZG HTTP/1.1" 500 -
+INFO _internal.py:122  * Detected change in 'F:\\pythonStudy\\flask\\ihome\\api_v1_0\\verify_code.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 941-877-084
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 23:42:44] "GET /api/v1.0/sms_codes/18612398924?image_code_id=e16a523a-6739-49e3-8d59-7e62950735f7&image_code=6HZG HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 23:42:49] "GET /register.html HTTP/1.1" 304 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 23:42:49] "GET /api/v1.0/image_codes/fec12884-b0b0-49f1-9cce-dc5a7c7c7d49 HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 23:42:49] "GET /favicon.ico HTTP/1.1" 200 -
+ERROR verify_code.py:96 '<=' not supported between instances of 'str' and 'int'
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 23:43:19] "GET /api/v1.0/sms_codes/18612398924?image_code_id=fec12884-b0b0-49f1-9cce-dc5a7c7c7d49&image_code=DVAP HTTP/1.1" 500 -
+INFO _internal.py:122  * Detected change in 'F:\\pythonStudy\\flask\\ihome\\api_v1_0\\verify_code.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 941-877-084
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ERROR verify_code.py:96 '<=' not supported between instances of 'str' and 'int'
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 23:43:51] "GET /api/v1.0/sms_codes/18612398924?image_code_id=fec12884-b0b0-49f1-9cce-dc5a7c7c7d49&image_code=DVAP HTTP/1.1" 200 -
+INFO _internal.py:122  * Detected change in 'F:\\pythonStudy\\flask\\ihome\\api_v1_0\\verify_code.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 941-877-084
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ERROR verify_code.py:96 '<=' not supported between instances of 'str' and 'int'
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 23:44:06] "GET /api/v1.0/sms_codes/18612398924?image_code_id=fec12884-b0b0-49f1-9cce-dc5a7c7c7d49&image_code=DVAP HTTP/1.1" 200 -
+INFO _internal.py:122  * Detected change in 'F:\\pythonStudy\\flask\\ihome\\api_v1_0\\verify_code.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 941-877-084
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'F:\\pythonStudy\\flask\\ihome\\libs\\yuntongxun\\sms.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 941-877-084
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 23:47:41] "GET /api/v1.0/sms_codes/18612398924?image_code_id=fec12884-b0b0-49f1-9cce-dc5a7c7c7d49&image_code=DVAP HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 23:47:48] "GET /register.html HTTP/1.1" 304 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 23:47:48] "GET /api/v1.0/image_codes/9a5761c0-f473-42b4-950b-1060a82ea784 HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 23:47:48] "GET /favicon.ico HTTP/1.1" 200 -
+ERROR verify_code.py:95 '<=' not supported between instances of 'str' and 'int'
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 23:48:24] "GET /api/v1.0/sms_codes/18612398924?image_code_id=9a5761c0-f473-42b4-950b-1060a82ea784&image_code=WJWK HTTP/1.1" 200 -
+INFO _internal.py:122  * Detected change in 'F:\\pythonStudy\\flask\\ihome\\api_v1_0\\verify_code.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 941-877-084
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ERROR verify_code.py:94 '<=' not supported between instances of 'str' and 'int'
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 23:49:38] "GET /api/v1.0/sms_codes/18612398924?image_code_id=9a5761c0-f473-42b4-950b-1060a82ea784&image_code=WJWK HTTP/1.1" 200 -
+INFO _internal.py:122  * Detected change in 'F:\\pythonStudy\\flask\\ihome\\api_v1_0\\verify_code.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 941-877-084
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 23:57:08] "GET /register.html HTTP/1.1" 304 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 23:57:09] "GET /api/v1.0/image_codes/6f796364-5edd-44d9-a2dd-4ddc7153f80d HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 23:57:09] "GET /favicon.ico HTTP/1.1" 200 -
+ERROR verify_code.py:94 '<=' not supported between instances of 'str' and 'int'
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 23:57:44] "GET /api/v1.0/sms_codes/18612398924?image_code_id=6f796364-5edd-44d9-a2dd-4ddc7153f80d&image_code=v7sz HTTP/1.1" 200 -
+INFO _internal.py:122  * Detected change in 'F:\\pythonStudy\\flask\\ihome\\api_v1_0\\verify_code.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 941-877-084
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ERROR verify_code.py:94 '<=' not supported between instances of 'str' and 'int'
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 23:58:22] "GET /api/v1.0/sms_codes/18612398924?image_code_id=6f796364-5edd-44d9-a2dd-4ddc7153f80d&image_code=v7sz HTTP/1.1" 500 -
+ERROR verify_code.py:94 '<=' not supported between instances of 'str' and 'int'
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 23:58:24] "GET /api/v1.0/sms_codes/18612398924?image_code_id=6f796364-5edd-44d9-a2dd-4ddc7153f80d&image_code=v7sz HTTP/1.1" 500 -
+ERROR verify_code.py:94 '<=' not supported between instances of 'str' and 'int'
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 23:58:26] "GET /api/v1.0/sms_codes/18612398924?image_code_id=6f796364-5edd-44d9-a2dd-4ddc7153f80d&image_code=v7sz HTTP/1.1" 500 -
+ERROR verify_code.py:94 '<=' not supported between instances of 'str' and 'int'
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 23:58:27] "GET /api/v1.0/sms_codes/18612398924?image_code_id=6f796364-5edd-44d9-a2dd-4ddc7153f80d&image_code=v7sz HTTP/1.1" 500 -
+ERROR verify_code.py:94 '<=' not supported between instances of 'str' and 'int'
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 23:58:31] "GET /api/v1.0/sms_codes/18612398924?image_code_id=6f796364-5edd-44d9-a2dd-4ddc7153f80d&image_code=v7sz HTTP/1.1" 500 -
+INFO _internal.py:122  * Detected change in 'F:\\pythonStudy\\flask\\ihome\\api_v1_0\\verify_code.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 941-877-084
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ERROR verify_code.py:94 '<=' not supported between instances of 'str' and 'int'
+INFO _internal.py:122 127.0.0.1 - - [04/Sep/2019 23:59:05] "GET /api/v1.0/sms_codes/18612398924?image_code_id=6f796364-5edd-44d9-a2dd-4ddc7153f80d&image_code=v7sz HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [05/Sep/2019 00:04:46] "GET /register.html HTTP/1.1" 304 -
+INFO _internal.py:122 127.0.0.1 - - [05/Sep/2019 00:04:46] "GET /api/v1.0/image_codes/4314212d-4896-4cac-a7f1-ce2866e2e496 HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [05/Sep/2019 00:04:46] "GET /favicon.ico HTTP/1.1" 200 -
+ERROR verify_code.py:94 '<=' not supported between instances of 'str' and 'int'
+INFO _internal.py:122 127.0.0.1 - - [05/Sep/2019 00:05:31] "GET /api/v1.0/sms_codes/18612398924?image_code_id=4314212d-4896-4cac-a7f1-ce2866e2e496&image_code=javb HTTP/1.1" 200 -
+INFO _internal.py:122  * Detected change in 'F:\\pythonStudy\\flask\\ihome\\api_v1_0\\verify_code.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 941-877-084
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'F:\\pythonStudy\\flask\\ihome\\api_v1_0\\verify_code.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 941-877-084
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'F:\\pythonStudy\\flask\\ihome\\api_v1_0\\verify_code.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 941-877-084
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'F:\\pythonStudy\\flask\\ihome\\api_v1_0\\verify_code.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 941-877-084
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [05/Sep/2019 00:13:46] "GET /register.html HTTP/1.1" 304 -
+INFO _internal.py:122 127.0.0.1 - - [05/Sep/2019 00:13:46] "GET /api/v1.0/image_codes/9986e35d-f890-446a-bbde-baca518ceeb7 HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [05/Sep/2019 00:13:46] "GET /favicon.ico HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [05/Sep/2019 00:14:17] "GET /api/v1.0/sms_codes/18612398924?image_code_id=9986e35d-f890-446a-bbde-baca518ceeb7&image_code=javb HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [05/Sep/2019 00:15:04] "GET /api/v1.0/sms_codes/18612398924?image_code_id=9986e35d-f890-446a-bbde-baca518ceeb7&image_code=vfqr HTTP/1.1" 500 -
+INFO _internal.py:122  * Detected change in 'F:\\pythonStudy\\flask\\ihome\\libs\\yuntongxun\\CCPRestSDK.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 941-877-084
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [05/Sep/2019 00:18:17] "GET /api/v1.0/sms_codes/18612398924?image_code_id=9986e35d-f890-446a-bbde-baca518ceeb7&image_code=vfqr HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [05/Sep/2019 00:18:23] "GET /register.html HTTP/1.1" 304 -
+INFO _internal.py:122 127.0.0.1 - - [05/Sep/2019 00:18:23] "GET /api/v1.0/image_codes/aada25af-e12a-484f-a020-24ec00ec022c HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [05/Sep/2019 00:18:23] "GET /favicon.ico HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [05/Sep/2019 00:18:51] "GET /api/v1.0/sms_codes/18612398924?image_code_id=aada25af-e12a-484f-a020-24ec00ec022c&image_code=okmo HTTP/1.1" 500 -
+INFO _internal.py:122  * Detected change in 'F:\\pythonStudy\\flask\\ihome\\api_v1_0\\verify_code.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 941-877-084
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'F:\\pythonStudy\\flask\\ihome\\libs\\yuntongxun\\CCPRestSDK.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 941-877-084
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [05/Sep/2019 00:23:35] "GET /register.html HTTP/1.1" 304 -
+INFO _internal.py:122 127.0.0.1 - - [05/Sep/2019 00:23:35] "GET /api/v1.0/image_codes/4c5018df-514a-4f2b-94d1-53fbab5ccafa HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [05/Sep/2019 00:23:35] "GET /favicon.ico HTTP/1.1" 200 -
+ERROR verify_code.py:94 openssl_md5() takes no keyword arguments
+INFO _internal.py:122 127.0.0.1 - - [05/Sep/2019 00:24:02] "GET /api/v1.0/sms_codes/18612398924?image_code_id=4c5018df-514a-4f2b-94d1-53fbab5ccafa&image_code=nujn HTTP/1.1" 200 -
+INFO _internal.py:122  * Detected change in 'F:\\pythonStudy\\flask\\ihome\\libs\\yuntongxun\\CCPRestSDK.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 941-877-084
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [05/Sep/2019 00:28:30] "GET /api/v1.0/sms_codes/18612398924?image_code_id=4c5018df-514a-4f2b-94d1-53fbab5ccafa&image_code=nujn HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [05/Sep/2019 00:28:34] "GET /register.html HTTP/1.1" 304 -
+INFO _internal.py:122 127.0.0.1 - - [05/Sep/2019 00:28:34] "GET /api/v1.0/image_codes/269c4bb5-9c2d-4a5a-8573-7031ffc32f7c HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [05/Sep/2019 00:28:34] "GET /favicon.ico HTTP/1.1" 200 -
+ERROR verify_code.py:94 expected bytes-like object, not str
+INFO _internal.py:122 127.0.0.1 - - [05/Sep/2019 00:28:59] "GET /api/v1.0/sms_codes/18612398924?image_code_id=269c4bb5-9c2d-4a5a-8573-7031ffc32f7c&image_code=iozz HTTP/1.1" 200 -
+INFO _internal.py:122  * Detected change in 'F:\\pythonStudy\\flask\\ihome\\libs\\yuntongxun\\CCPRestSDK.py', reloading
+INFO _internal.py:122  * Restarting with stat
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 941-877-084
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [05/Sep/2019 00:39:03] "GET /register.html HTTP/1.1" 304 -
+INFO _internal.py:122 127.0.0.1 - - [05/Sep/2019 00:39:03] "GET /api/v1.0/image_codes/f35e7420-8a94-476d-8e3e-35b37d65f4bd HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [05/Sep/2019 00:39:03] "GET /favicon.ico HTTP/1.1" 200 -
+ERROR verify_code.py:94 'dict' object has no attribute 'iteritems'
+INFO _internal.py:122 127.0.0.1 - - [05/Sep/2019 00:39:37] "GET /api/v1.0/sms_codes/18612398924?image_code_id=f35e7420-8a94-476d-8e3e-35b37d65f4bd&image_code=md4g HTTP/1.1" 200 -
+INFO _internal.py:122  * Detected change in 'F:\\pythonStudy\\flask\\ihome\\libs\\yuntongxun\\sms.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 941-877-084
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [05/Sep/2019 09:06:48] "GET /register.html HTTP/1.1" 304 -
+INFO _internal.py:122 127.0.0.1 - - [05/Sep/2019 09:06:48] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+INFO _internal.py:122 127.0.0.1 - - [05/Sep/2019 09:06:48] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+INFO _internal.py:122 127.0.0.1 - - [05/Sep/2019 09:06:48] "GET /static/css/reset.css HTTP/1.1" 304 -
+INFO _internal.py:122 127.0.0.1 - - [05/Sep/2019 09:06:48] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+INFO _internal.py:122 127.0.0.1 - - [05/Sep/2019 09:06:48] "GET /static/css/ihome/register.css HTTP/1.1" 304 -
+INFO _internal.py:122 127.0.0.1 - - [05/Sep/2019 09:06:48] "GET /static/images/logo@128x59.png HTTP/1.1" 304 -
+INFO _internal.py:122 127.0.0.1 - - [05/Sep/2019 09:06:48] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+INFO _internal.py:122 127.0.0.1 - - [05/Sep/2019 09:06:48] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+INFO _internal.py:122 127.0.0.1 - - [05/Sep/2019 09:06:48] "GET /static/js/ihome/register.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [05/Sep/2019 09:06:48] "GET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1" 304 -
+INFO _internal.py:122 127.0.0.1 - - [05/Sep/2019 09:06:48] "GET /api/v1.0/image_codes/cc09605d-dbc3-438f-99bf-23984eddf8b5 HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [05/Sep/2019 09:06:48] "GET /favicon.ico HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [05/Sep/2019 09:07:26] "GET /api/v1.0/sms_codes/18612398924?image_code_id=cc09605d-dbc3-438f-99bf-23984eddf8b5&image_code=ycyq HTTP/1.1" 200 -
+INFO _internal.py:122  * Detected change in 'F:\\pythonStudy\\flask\\ihome\\api_v1_0\\verify_code.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 941-877-084
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 941-877-084
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [05/Sep/2019 09:51:13] "GET /register.html HTTP/1.1" 304 -
+INFO _internal.py:122 127.0.0.1 - - [05/Sep/2019 09:51:13] "GET /api/v1.0/image_codes/c753e959-4a4c-478b-ad1e-1ea5f7e1c351 HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [05/Sep/2019 09:51:13] "GET /favicon.ico HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [05/Sep/2019 09:52:11] "GET /api/v1.0/sms_codes/18612398924?image_code_id=c753e959-4a4c-478b-ad1e-1ea5f7e1c351&image_code=b1v6 HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [05/Sep/2019 09:52:29] "GET /api/v1.0/sms_codes/18612398924?image_code_id=c753e959-4a4c-478b-ad1e-1ea5f7e1c351&image_code=bav6 HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [05/Sep/2019 09:52:49] "GET /register.html HTTP/1.1" 304 -
+INFO _internal.py:122 127.0.0.1 - - [05/Sep/2019 09:52:49] "GET /api/v1.0/image_codes/5fb535a2-cb1e-4ea7-93d6-fabc96d33511 HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [05/Sep/2019 09:52:49] "GET /favicon.ico HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [05/Sep/2019 09:53:13] "GET /api/v1.0/sms_codes/18612398924?image_code_id=5fb535a2-cb1e-4ea7-93d6-fabc96d33511&image_code=snea HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [05/Sep/2019 09:53:20] "GET /register.html HTTP/1.1" 304 -
+INFO _internal.py:122 127.0.0.1 - - [05/Sep/2019 09:53:20] "GET /api/v1.0/image_codes/4180f661-d825-47f2-a149-ec51bd0f496f HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [05/Sep/2019 09:53:20] "GET /favicon.ico HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [05/Sep/2019 09:53:45] "GET /api/v1.0/sms_codes/18612398924?image_code_id=4180f661-d825-47f2-a149-ec51bd0f496f&image_code=fv6f HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [05/Sep/2019 10:28:29] "GET /api/v1.0/sms_codes/18612398924?image_code=fv6f&image_code_id=4180f661-d825-47f2-a149-ec51bd0f496f HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [05/Sep/2019 10:28:34] "GET /api/v1.0/image_codes/befb4fd6-c406-46e1-a31f-88cd55c80fee HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [05/Sep/2019 10:28:44] "GET /api/v1.0/sms_codes/18612398924?image_code=wabc&image_code_id=befb4fd6-c406-46e1-a31f-88cd55c80fee HTTP/1.1" 200 -
+INFO _internal.py:122  * Detected change in 'F:\\pythonStudy\\flask\\ihome\\api_v1_0\\__init__.py', reloading
+INFO _internal.py:122  * Restarting with stat
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 941-877-084
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [05/Sep/2019 14:01:08] "GET /register.html HTTP/1.1" 304 -
+INFO _internal.py:122 127.0.0.1 - - [05/Sep/2019 14:01:08] "GET /api/v1.0/image_codes/2992d629-95bb-4265-a994-cecd08a3adfa HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [05/Sep/2019 14:01:08] "GET /favicon.ico HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [05/Sep/2019 14:02:06] "GET /api/v1.0/sms_codes/18611111111?image_code=UQBY&image_code_id=2992d629-95bb-4265-a994-cecd08a3adfa HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [05/Sep/2019 14:21:21] "GET /api/v1.0/image_codes/09ba895f-6f90-4da2-a030-842c09b4bfcb HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [05/Sep/2019 14:21:28] "GET /api/v1.0/sms_codes/18611111111?image_code=rwgt&image_code_id=09ba895f-6f90-4da2-a030-842c09b4bfcb HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [05/Sep/2019 14:21:55] "GET /api/v1.0/users HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [05/Sep/2019 14:22:13] "POST /api/v1.0/users HTTP/1.1" 200 -
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 941-877-084
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [05/Sep/2019 16:28:10] "POST /api/v1.0/session HTTP/1.1" 405 -
+INFO _internal.py:122 127.0.0.1 - - [05/Sep/2019 16:28:23] "POST /api/v1.0/session HTTP/1.1" 405 -
+INFO _internal.py:122 127.0.0.1 - - [05/Sep/2019 16:28:56] "POST /api/v1.0/session HTTP/1.1" 405 -
+INFO _internal.py:122 127.0.0.1 - - [05/Sep/2019 16:29:22] "POST /api/v1.0/session HTTP/1.1" 405 -
+INFO csrf.py:251 The CSRF token is missing.
+INFO _internal.py:122 127.0.0.1 - - [05/Sep/2019 16:29:49] "POST /api/v1.0/sessions HTTP/1.1" 400 -
+INFO _internal.py:122  * Detected change in 'F:\\pythonStudy\\flask\\ihome\\api_v1_0\\passport.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 941-877-084
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'F:\\pythonStudy\\flask\\ihome\\__init__.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 941-877-084
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [05/Sep/2019 16:32:41] "POST /api/v1.0/sessions HTTP/1.1" 400 -
+INFO _internal.py:122 127.0.0.1 - - [05/Sep/2019 16:32:54] "POST /api/v1.0/sessions HTTP/1.1" 400 -
+INFO _internal.py:122 127.0.0.1 - - [05/Sep/2019 16:33:22] "POST /api/v1.0/sessions HTTP/1.1" 400 -
+INFO _internal.py:122 127.0.0.1 - - [05/Sep/2019 16:33:44] "POST /api/v1.0/sessions HTTP/1.1" 200 -
+INFO _internal.py:122  * Detected change in 'F:\\pythonStudy\\flask\\ihome\\api_v1_0\\passport.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 941-877-084
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'F:\\pythonStudy\\flask\\ihome\\api_v1_0\\passport.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 941-877-084
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'F:\\pythonStudy\\flask\\ihome\\api_v1_0\\passport.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 941-877-084
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'F:\\pythonStudy\\flask\\ihome\\utils\\commons.py', reloading
+INFO _internal.py:122  * Restarting with stat
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 941-877-084
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [06/Sep/2019 09:51:46] "GET /login.html HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [06/Sep/2019 09:51:46] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+INFO _internal.py:122 127.0.0.1 - - [06/Sep/2019 09:51:46] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+INFO _internal.py:122 127.0.0.1 - - [06/Sep/2019 09:51:46] "GET /static/css/reset.css HTTP/1.1" 304 -
+INFO _internal.py:122 127.0.0.1 - - [06/Sep/2019 09:51:46] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+INFO _internal.py:122 127.0.0.1 - - [06/Sep/2019 09:51:46] "GET /static/css/ihome/login.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [06/Sep/2019 09:51:47] "GET /static/images/logo@128x59.png HTTP/1.1" 304 -
+INFO _internal.py:122 127.0.0.1 - - [06/Sep/2019 09:51:47] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+INFO _internal.py:122 127.0.0.1 - - [06/Sep/2019 09:51:47] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+INFO _internal.py:122 127.0.0.1 - - [06/Sep/2019 09:51:47] "GET /static/js/ihome/login.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [06/Sep/2019 09:51:47] "GET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1" 304 -
+INFO _internal.py:122 127.0.0.1 - - [06/Sep/2019 09:52:09] "POST /api/v1.0/sessions HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [06/Sep/2019 09:52:09] "GET / HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [06/Sep/2019 09:52:09] "GET /static/plugins/swiper/css/swiper.min.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [06/Sep/2019 09:52:09] "GET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [06/Sep/2019 09:52:09] "GET /static/css/ihome/index.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [06/Sep/2019 09:52:09] "GET /static/plugins/swiper/js/swiper.jquery.min.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [06/Sep/2019 09:52:09] "GET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [06/Sep/2019 09:52:09] "GET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [06/Sep/2019 09:52:09] "GET /static/js/template.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [06/Sep/2019 09:52:09] "GET /static/js/ihome/index.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [06/Sep/2019 09:52:09] "GET /api/v1.0/session HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [06/Sep/2019 09:52:10] "GET /api/v1.0/houses/index HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [06/Sep/2019 09:52:10] "GET /api/v1.0/areas HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [06/Sep/2019 09:52:42] "POST /api/v1.0/sessions HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [06/Sep/2019 09:52:43] "GET /api/v1.0/session HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [06/Sep/2019 09:52:43] "GET /api/v1.0/houses/index HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [06/Sep/2019 09:52:43] "GET /api/v1.0/areas HTTP/1.1" 404 -
+INFO _internal.py:122  * Detected change in 'F:\\pythonStudy\\flask\\ihome\\models.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 941-877-084
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'F:\\pythonStudy\\flask\\ihome\\models.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 941-877-084
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'F:\\pythonStudy\\flask\\ihome\\models.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 941-877-084
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [06/Sep/2019 10:23:40] "GET /api/v1.0/areas HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [06/Sep/2019 10:24:14] "GET /api/v1.0/areas HTTP/1.1" 404 -
+INFO _internal.py:122  * Detected change in 'F:\\pythonStudy\\flask\\ihome\\api_v1_0\\__init__.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 941-877-084
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [06/Sep/2019 10:24:55] "GET /api/v1.0/areas HTTP/1.1" 200 -
+INFO _internal.py:122  * Detected change in 'F:\\pythonStudy\\flask\\ihome\\api_v1_0\\houses.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 941-877-084
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [06/Sep/2019 10:26:15] "GET /api/v1.0/areas HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [06/Sep/2019 10:41:29] "GET /api/v1.0/areas HTTP/1.1" 200 -
+INFO _internal.py:122  * Detected change in 'F:\\pythonStudy\\flask\\ihome\\api_v1_0\\houses.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 941-877-084
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'F:\\pythonStudy\\flask\\ihome\\api_v1_0\\houses.py', reloading
+INFO _internal.py:122  * Restarting with stat
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 941-877-084
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [06/Sep/2019 12:00:19] "GET /api/v1.0/areas HTTP/1.1" 200 -
+INFO houses.py:18  hit  redis area_info
+INFO _internal.py:122 127.0.0.1 - - [06/Sep/2019 12:00:58] "GET /api/v1.0/areas HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [06/Sep/2019 15:27:26] "POST /api/v1.0/sessions HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [06/Sep/2019 15:27:33] "POST /api/v1.0/sessions HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [06/Sep/2019 15:27:33] "GET /api/v1.0/session HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [06/Sep/2019 15:27:33] "GET /api/v1.0/houses/index HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [06/Sep/2019 15:27:33] "GET /api/v1.0/areas HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [06/Sep/2019 15:27:43] "GET /search.html?aid=2&aname=Î÷³ÇÇø&sd=2019-09-11&ed= HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [06/Sep/2019 15:27:43] "GET /static/css/ihome/search.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [06/Sep/2019 15:27:43] "GET /static/js/ihome/search.js HTTP/1.1" 200 -
+INFO houses.py:18  hit  redis area_info
+INFO _internal.py:122 127.0.0.1 - - [06/Sep/2019 15:27:44] "GET /api/v1.0/areas HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [06/Sep/2019 15:27:44] "GET /api/v1.0/houses?aid=2&sd=2019-09-11&ed=&sk=new&p=1 HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [06/Sep/2019 15:27:54] "GET /api/v1.0/houses?aid=2&sd=2019-09-11&ed=2019-09-13&sk=booking&p=1 HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [06/Sep/2019 15:27:59] "GET /api/v1.0/session HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [06/Sep/2019 15:27:59] "GET /api/v1.0/houses/index HTTP/1.1" 404 -
+INFO houses.py:18  hit  redis area_info
+INFO _internal.py:122 127.0.0.1 - - [06/Sep/2019 15:27:59] "GET /api/v1.0/areas HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [06/Sep/2019 15:28:06] "GET /register.html HTTP/1.1" 304 -
+INFO _internal.py:122 127.0.0.1 - - [06/Sep/2019 15:28:06] "GET /static/css/ihome/register.css HTTP/1.1" 304 -
+INFO _internal.py:122 127.0.0.1 - - [06/Sep/2019 15:28:06] "GET /static/js/ihome/register.js HTTP/1.1" 304 -
+INFO _internal.py:122 127.0.0.1 - - [06/Sep/2019 15:28:06] "GET /api/v1.0/image_codes/00e30c5a-4048-4bd7-bd1b-01e6db0022a8 HTTP/1.1" 200 -
